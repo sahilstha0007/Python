@@ -1,0 +1,5 @@
+Discrete Mathematics,BIT108,4 
+Introduction to Information Technology,BIT101,3 
+OO Programming Fundamentals,BIT106,4 
+Cloud Computing,BIT210,4 
+Final Year Project I,BIT304,5

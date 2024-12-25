@@ -1,2 +1,2 @@
-file = open("dapy.txt","r")
+file = open("py.txt","r")
 print (file.read())
